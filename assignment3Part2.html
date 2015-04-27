@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+	<meta charset="UTF-8">
+    <script src="gistJs.js"></script>
+	<title>Assignment 3, Part 2</title>
+	</head>
+	<body>
+	  <div id="output"></div>
+      <section>
+        <h3>GISTS</h3>
+          <div>
+            <label>JSON</label>
+            <input type="radio" name="language" value='JSON' checked="checked">
+            <label>Python</label>
+            <input type="radio" name="language" value='Python'>
+            <label>JavaScript</label>
+            <input type="radio" name="language" value='JavaScript'>
+            <label>SQL</label>
+            <input type="radio" name="language" value='SQL'>
+          </div>
+        <div>
+          <label>Number of Pages</label>
+          <input type="number" name="number-of-pages" min="1" max="5">
+        </div>
+        <div>
+            <input style=" background-color:#09F; color:#FFF;" type="button" value="Fetch Gists" onclick="generate_table()">
+        </div>
+      </section>
+    <section>
+      <ul id="gist-list">
+      </ul>
+    </section>
+</body>
+</html>
+
+
+
+
+
+
+
+    </body>
+</html>

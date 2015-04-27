@@ -1,0 +1,27 @@
+Start: Mon, 20 Apr 2015 19:30:00 -0800
+End: Mon, 20 Apr 2015 23:00:00 -0800
+Tasks: watched videos and read the reading web sites.
+
+Start: Tue, 21 Apr 2015 19:00:00 -0800
+End: Tue, 21 Apr 2015 23:59:00 -0800
+Tasks: Watched and read some more. Didnt understand.
+
+Start: Wed, 22 Apr 2015 20:00:00 -0800
+End: Wed, 22 Apr 2015 23:30:00 -0800
+Tasks: Started to copy the video code to understand first hand.
+
+Start: Thu, 23 Apr 2015 20:00:00 -0800
+End: Thu, 23 Apr 2015 23:59:00 -0800
+Tasks: Video code didnt work but fixed it and trying to work with it and start assignment.
+
+Start: Fri, 24 Apr 2015 19:00:00 -0800
+End: Sat, 25 Apr 2015 01:00:00 -0800
+Tasks: Working parse.
+
+Start: Sat, 25 Apr 2015 20:30:00 -0800
+End: Sun, 26 Apr 2015 02:30:00 -0800
+Tasks: Had trouble aking user radio button.
+
+Start: Sun, 26 Apr 2015 19:00:00 -0800
+End: Sun, 26 Apr 2015 23:59:00 -0800
+Tasks: No luck getting the multiple pages.
